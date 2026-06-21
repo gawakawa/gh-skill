@@ -12,3 +12,9 @@ gh skill install gawakawa/gh-skill review-memory --agent claude-code --scope use
 | --- | --- |
 | `--agent` | Target agent, e.g. `claude-code`, `codex`. |
 | `--scope` | `project` or `user`. |
+
+Update to the latest published version:
+
+```sh
+gh skill update review-memory
+```
